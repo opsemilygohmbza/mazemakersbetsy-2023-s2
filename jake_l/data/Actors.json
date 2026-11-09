@@ -1,9 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":4,"equips":[20,0,0,0,99],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"joe","nickname":"","note":"","profile":"cool guy"},
-{"id":2,"battlerName":"SF_Actor3_5","characterIndex":4,"characterName":"Actor3","classId":4,"equips":[3,28,52,9,0],"faceIndex":4,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"moe","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":4,"equips":[37,0,46,5,77],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"mac","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Actor1_1","characterIndex":5,"characterName":"SF_Monster","classId":3,"equips":[10,0,0,5,0],"faceIndex":5,"faceName":"SF_Monster","traits":[],"initialLevel":1,"maxLevel":99,"name":"cheese","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"SF_Actor1_1","characterIndex":3,"characterName":"Evil","classId":4,"equips":[2,0,0,0,0],"faceIndex":0,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"ikfjf","nickname":"","note":"","profile":""},
-{"id":6,"battlerName":"","characterIndex":6,"characterName":"Evil","classId":4,"equips":[27,0,65,21,0],"faceIndex":6,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kasey","nickname":"","note":"","profile":""}
-]

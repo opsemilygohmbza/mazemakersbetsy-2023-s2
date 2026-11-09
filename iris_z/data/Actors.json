@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"luna battler","characterIndex":1,"characterName":"luna walk","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"luna face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Luna","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"roxybattler","characterIndex":0,"characterName":"roxych","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"roxyface","traits":[],"initialLevel":1,"maxLevel":99,"name":"roxy","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"mikebattler","characterIndex":0,"characterName":"mikech","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"mikeface","traits":[],"initialLevel":1,"maxLevel":99,"name":"mike","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"speedlightbattler","characterIndex":0,"characterName":"speedlightwalk","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"speedlightface","traits":[],"initialLevel":1,"maxLevel":99,"name":"speedlight","nickname":"","note":"","profile":""}
-]

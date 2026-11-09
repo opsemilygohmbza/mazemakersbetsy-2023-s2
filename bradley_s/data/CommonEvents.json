@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"list":[{"code":129,"indent":0,"parameters":[10,0,false]},{"code":313,"indent":0,"parameters":[0,10,1,1]},{"code":314,"indent":0,"parameters":[0,10]},{"code":0,"indent":0,"parameters":[]}],"name":"Shadow Clone Summon Attack","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":129,"indent":0,"parameters":[9,0,false]},{"code":313,"indent":0,"parameters":[0,9,1,1]},{"code":314,"indent":0,"parameters":[0,9]},{"code":0,"indent":0,"parameters":[]}],"name":"Shadow Clone Summon Defense","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
-]
